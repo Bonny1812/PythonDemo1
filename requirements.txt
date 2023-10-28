@@ -1,0 +1,7 @@
+pandas
+pyspark
+pytz
+iso8601
+sqlalchemy
+setuptools 
+wheel
